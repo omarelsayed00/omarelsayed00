@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align= "center"><b>Hello World! :earth_africa:</b></h1>
 
 <!--
