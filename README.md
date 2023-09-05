@@ -23,7 +23,7 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 ## What I know :computer:
 - **Backedn Development**
 	- SpringBoot
- - JPA
+	 - JPA
  - NodeJs
  - mySQL
  - Oracle
