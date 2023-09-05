@@ -25,6 +25,7 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 	- SpringBoot
 	 - JPA
  	- NodeJs
+  	-ExpressJs 
  	- mySQL
  	- Oracle
    
