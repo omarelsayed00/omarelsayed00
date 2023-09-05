@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 I am a Software Engineer, graduated from faculty of Computer Enineering. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
-- **Backedn Development**
+- **Backend Development**
 	- SpringBoot
 	 - JPA
- - NodeJs
- - mySQL
- - Oracle
+ 	- NodeJs
+ 	- mySQL
+ 	- Oracle
    
 - **Frontend Development**
 	- HTML - HTML5
