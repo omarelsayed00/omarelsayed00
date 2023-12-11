@@ -22,7 +22,7 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 
 ## What I know :computer:
 - **Backend Development**
-	- SpringBoot
+	- Spring Boot
 	 - JPA
  	- NodeJs
   	-ExpressJs 
@@ -52,7 +52,8 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 	-  Postman API
 	-  Figma
 	-  Agile
- 	 - SVN   
+ 	- SVN
+  	- Jira    
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/omarelsayed00?label=Follow&style=social)](https://github.com/omarelsayed00)
