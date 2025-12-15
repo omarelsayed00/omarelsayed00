@@ -23,7 +23,9 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 ## What I know :computer:
 - **Backend Development**
 	- Spring Boot
-	 - JPA
+	- Java
+	- Hibernate
+	- JPA
  	- NodeJs
   	-ExpressJs 
  	- mySQL
