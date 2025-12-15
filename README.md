@@ -32,23 +32,18 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
  	- Oracle
    
 - **Frontend Development**
-	- HTML - HTML5
+	- React.js
+  	- Next.js
+  	- Angular
+    - HTML - HTML5
 	- CSS - CSS3
 	- Javascript
 	- ES6+
-	- JSON
-	- AJAX
-	- Restful APIS
-	- Regular Expression
 	- Typescript
-  - jQuery
   - Bootstrap5
   - SCSS
-  - React.js
-  - Next.js
-  - Angular
-  - Git
-  - GitHub
+
+
 
 - **Others**
 	-  Postman API
@@ -56,6 +51,7 @@ I am a Software Engineer, graduated from faculty of Computer Enineering. From ve
 	-  Agile
  	- SVN
   	- Jira    
+  	- Git    
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/omarelsayed00?label=Follow&style=social)](https://github.com/omarelsayed00)
